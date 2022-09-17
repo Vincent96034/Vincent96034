@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vincent
 - I'm a business student with focus on business informatics
-- I'm interested in data analytics & data science it's application in diverse areas
+- I'm interested in data analytics & data science and it's application in diverse areas
 - How you can reach me:
   - Mail: vhaunberger@gmail.com
   - Tel.: +49 160 1290999
