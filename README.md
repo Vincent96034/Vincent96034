@@ -3,7 +3,6 @@
 - I'm interested in data analytics & data science and it's application in diverse areas
 - How you can reach me:
   - Mail: vhaunberger@gmail.com
-  - Tel.: +49 160 1290999
   - [LinkedIn](https://www.linkedin.com/in/vincent-haunberger-818b96170/)
 
 <!---
