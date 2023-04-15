@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Vincent
-- I'm a business student with focus on business informatics
-- I'm interested in data analytics & data science and it's application in diverse areas
-- How you can reach me:
-  - Mail: vhaunberger@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/vincent-haunberger-818b96170/)
+👋 Hi, I’m Vincent
 
 <!---
 Vincent96034/Vincent96034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
